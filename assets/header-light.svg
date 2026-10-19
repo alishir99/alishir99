@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-label="Hi, I'm Ali. Software engineer in Sweden, M.Sc. Chalmers.">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI Variable Display", "Segoe UI", Inter, "Helvetica Neue", Arial, sans-serif; text-anchor: middle; }
+    .hero { font-size: 64px; font-weight: 700; letter-spacing: -1.5px; fill: #1D1D1F; }
+    .name { fill: #0071E3; }
+    .sub { font-size: 21px; font-weight: 400; fill: #6E6E73; }
+    .fade { opacity: 0; animation: in 0.9s ease-out forwards; }
+    .d1 { animation-delay: 0.25s; }
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  </style>
+  <g class="fade">
+    <text x="450" y="98" class="hero">Hi, I'm <tspan class="name">Ali</tspan> <tspan class="wave">👋</tspan></text>
+  </g>
+  <g class="fade d1">
+    <text x="450" y="148" class="sub">Software engineer in Sweden  ·  M.Sc. Chalmers</text>
+  </g>
+</svg>
