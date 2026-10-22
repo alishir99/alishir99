@@ -14,7 +14,7 @@
 
 - **Experience.** Software engineer, most recently at **Volvo Group Trucks Technology**: automation tools in Python, and a master's thesis in machine learning.
 - **Learning.** Cloud: Azure now, AWS next.
-- **Latest project.** [SmartBI](https://github.com/alishir99/SmartBI), an AI sales dashboard, live on Azure with CI/CD.
+- **Latest project.** [ADAS-AEB](https://github.com/alishir99/ADAS-AEB), Automatic Emergency Braking in C++17: collision warning and braking logic, built test-first with GoogleTest and CI. In progress.
 - **Projects.** All of them are on my [portfolio](https://alishir99.github.io) and pinned below.
 - **Open to** software engineering roles in Sweden.
 
