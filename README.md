@@ -7,8 +7,7 @@
 
 <a href="https://www.linkedin.com/in/alishirzad99"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="28"></a>&nbsp;
 <a href="mailto:ali.shirzad.cs@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="28"></a>&nbsp;
-<a href="https://alishir99.github.io"><img src="assets/portfolio.svg" alt="Portfolio" width="28"></a>&nbsp;
-<img src="https://hits.sh/github.com/alishir99.svg?style=for-the-badge&label=Profile%20views&color=0071e3&labelColor=1d1d1f&logo=github&logoColor=white" alt="Profile views" height="28">
+<a href="https://alishir99.github.io"><img src="assets/portfolio.svg" alt="Portfolio" width="28"></a>
 
 </div>
 
